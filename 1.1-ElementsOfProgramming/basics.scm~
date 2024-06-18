@@ -1,0 +1,8 @@
+#lang scheme
+(define a 5)
+(define b 6)
+(+ a b)
+
+(define square x) (* x x)
+
+(square 21)
